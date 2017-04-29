@@ -5,8 +5,4 @@ Sample Spring boot poject.
 
 Technical specfications:
 ------------------------
-
-MongoDB
-MySQL
-SpringBoot
-Twitter Social.
+MongoDB, MySQL & Twitter Social.
